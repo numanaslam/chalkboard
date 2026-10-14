@@ -1,0 +1,10 @@
+# customer contact log  (messy on purpose)
+# one record per line; fields are separated by the pipe character |
+id|raw_record
+1|Ada Lovelace , ada@math.org , +92-300-1234567 , joined 2021-03-15 , spent $1,200.50
+2|Alan Turing , alan.turing@cs.ac.uk , 0301 7654321 , joined 2019/11/02 , spent $840
+3|Grace Hopper , grace_hopper@navy.mil , +1 (555) 019-2834 , joined 2020-07-21 , spent $2,015.00
+4|Linus T. , linus@kernel.org , 03009998877 , joined 2022-01-30 , spent $55.25
+5|Katherine J , k.johnson@nasa.gov , +92 321 4455667 , joined 2018-05-09 , spent $9,999
+6|BAD ROW no email here , 12345 , joined yesterday , spent lots
+7|Margaret H , margaret@apollo.org , +92-333-0001112 , joined 2023-12-01 , spent $3.00
